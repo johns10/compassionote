@@ -1,0 +1,124 @@
+{% extends 'base.html' %}
+{% block content %}
+<form action="submit" method="post">
+    
+    <div class="row">
+        <div class="col-sm-12">Contact: {{ object.contact }}</div>
+        <div class="col-sm-12">Pipl ID: {{ object.pipl_id }}</div>
+        <div class="col-sm-12">Match: {{ object.match }}</div>
+        <div class="col-sm-12">Match: {{ object.matched }}</div>
+    </div>
+    <h3>Names:</h3>
+    <div class="row">
+    {% for name in object.names.all %}
+        <div class="col-sm-4">{{ name.display }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Emails:</h3>
+    <div class="row">
+    {% for email in object.emails.all %}
+        <div class="col-sm-4"><a style="word-wrap: break-word;" href="{{ email.email_address }}">{{ email.email_address }}</a></div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Phone Numbers:</h3>
+    <div class="row">
+    {% for phone in object.phone.all %}
+        <div class="col-sm-4">{{ phone.display }} ({{ phone.type }})</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Gender:</h3>
+    <div class="row">
+    {% for gender in object.gender.all %}
+        <div class="col-sm-4">{{ gender.content }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Ethnicity:</h3>
+    <div class="row">
+    {% for ethnicity in object.ethnicities.all %}
+        <div class="col-sm-4">Ethnicity: {{ ethnicity.content }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Age and Date of Birth:</h3>
+    <div class="row">
+    {% for dob in object.dobs.all %}
+        <div class="col-sm-12">Age: {{ dob.display }}</div>
+        <div class="col-sm-12">Dob Range: {{ dob.start }} through {{ dob.end }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Languages:</h3>
+    <div class="row">
+    {% for language in object.languages.all %}
+        <div class="col-sm-4">{{ language.language }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>Addresses:</h3>
+    <div class="row">
+    {% for address in object.addresses.all %}
+        <div class="col-sm-4">{{ address.display }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>User ID's:</h3>
+    <div class="row">
+    {% for userid in object.userids.all %}
+        <div class="col-sm-4">{{ userid.content }}</div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    <h3>URLs:</h3>
+    <div class="row">
+    {% for url in object.urls.all %}
+        <div class="col-sm-4"><a href="{{ url.url }}">{{ url.name }}</a></div>
+        {% if forloop.counter|divisibleby:3 %}
+    </div>
+    <br>
+    <div class="row">
+        {% endif %}
+    {% endfor %}
+    </div>
+    </div>
+</form>
+{% endblock %}

@@ -1,0 +1,541 @@
+{
+    "@http_status_code": 200, 
+    "@visible_sources": 164, 
+    "@available_sources": 164, 
+    "@search_id": "1605162203117767739423202173889730575", 
+    "query": {
+        "names": [
+            {
+                "first": "Kent", 
+                "last": "Lloyd", 
+                "display": "Kent Lloyd"
+            }
+        ], 
+        "addresses": [
+            {
+                "country": "US", 
+                "state": "KY", 
+                "city": "Louisville", 
+                "street": "Logan St.", 
+                "house": "1256", 
+                "zip_code": "40204", 
+                "display": "1256 Logan St., Louisville, Kentucky"
+            }
+        ]
+    }, 
+    "available_data": {
+        "premium": {
+            "relationships": 10, 
+            "jobs": 4, 
+            "addresses": 17, 
+            "phones": 5, 
+            "educations": 1, 
+            "languages": 1, 
+            "user_ids": 3, 
+            "social_profiles": 1, 
+            "names": 1, 
+            "dobs": 1, 
+            "genders": 1, 
+            "emails": 8
+        }
+    }, 
+    "person": {
+        "@id": "4a235ffc-6482-42bb-8af3-2314dcae3872", 
+        "@match": 1.0, 
+        "@search_pointer": "fa756efacd12ba3035ad114c40749c014553a15e66e6ad539471c160c252df88e8a05bf6d452a4ab5a4705fb4737b3bc3295d9e147443e0036c61dd766cbfd6bde5e114a975b04c8407a59eb34dec0f141bf5f7424e64f20190c11b00c18ef4abc725ee8d597a0f546d4b0bd53dd77b50d7b19a788f2aad9061bc10486e95179e17f3e04617ff746b6500502ad58c6fe8136f501a6fb7258ef439de10c463d23ea568c9ef840e1964723ca6e172b0114581067382e40bb52675ba6daa7ed994f420791cf07abd581a9da61cd44e86c5402aeb690ce51641e1eeb798d1f9052822b8aa213965c25bc3fe9efaa6694d0c9cf54497a9adae272b5cfdecc18db87b3323fbce9cb263dd1fcf9d627defa4e2d105e5c8686310eedce21c3d81e6c66b4c26bccb8bf41f736b1270297d35f0c487e9c8c646de90f623fcbe626f0ca5042a0d2b07ba8af5b282b7db7817f5108fc5a567ec64162f4efd741c5aa0aa47af9db6eb73b5afeaf569ea194de53b9d5dccf97d65d9a8729e80fa313f6e0c7f63d5007959f34843f67ea91ba5b17ce87c3cc03e45bc5aaae336a0f70b5a3ca60ff51c98fcffcf5cf330b621429fe5c96e862269741bf4f33045d5ae23d73db2f0f93cf4ffa523189d86c2082cfc10cffe41054a39e8ae8d578fca1edf8b7d5c1beed8316e88a6d2fbea00207b7c6e25ac91a2ca6ce397f9f684a486efd1d3b8811694ff99109b539d5be13935b9caafeb9dbf7cfd4a577dc38b4108958563ac0566e30a9d1f71d599283b9109aa63c207842b4fba402b539a4700dcab4be420345923758b342f07c5e3f39c566fe55a64989fa4d27f1680322e3e9afee6fc20925cceca8aca137864c007de032765b9db3470ba762406649f7b235fef097dc31625f54239f2a3c643086d4755a90d08513b0e34f2c1028a4b5f850dfde3274003f1d048ce1ba73282e4e9f76c8b84a4e3c86206715078e6d38f8627e09ab25d99f17316f351ef46faa58df02bb6dd94d5fca96bceb99524dc47a83088f86bf46327b9b05c6cca5b89f528e66827c17112c747e4fcd0fda4c62c43a0f6d66530c692623eac30cc4c17de2bd0827b4984c0072741dd8497c2f49072384c74ce9b91d089a497676f0ea6587e024c946636511984912d36acf468c7bd9371b8e87fa375275abefe31c29e02990e9ae2ea38878062736f131af66a02258228901b9dc527df6d66efbbe9d980045ba14bc7ce300dd27384bf50ea4550bce7e70d416a06e8d6cbb4374192343eab44d9b110adfbab22c96289cf9c6481c979153760f15d4036c76ff3ca57e2b66c2b47b331aeb63ce33e854b3e262a08c6a73f33bfd4a8bbc539b677d7093fdda3e5b73abfc5bbfbc4e1f0058582d79bb5718d62b217511f6c80104ef3266b455b4bb7f69d98a89a6873e79b5be7e00e8a0f76c6f8d312cd7c11557629d3dd71800db322db599c60ac00bea239d1cf39b8eb38abad7d89eaba6ca1be0b30d668fb8e49b5f5a3e940ed02de97546bf7197719800c58de71c503ee04a40edaba23e937257daa1007820cdd2987b320833ccbda23d4e4538ed4ca72c355653cdeac6ea1a9ffbcaaa8f90312872dfc13c75888824218a345f91aa493346e6587b6bf688f5cc5fa2a2bda2bbea3fe632e491393b645681e6a3103361fad5d10d9f92459cb82c74252ee4a71bb66a3f8c704a4208c23cbcfb0458efa5faf4ca20672302d3d53c1076d15f106abc8f2ab79e4d30d2a5b1ae3a52ce270a3d5e7fe22f099cc35197e0e878431fdab5117014813d1c3ecbc4f84d228617e39f9f10506ae065dc32188decf5a78e50b1dd50e9b21e4166775525c60f3191c04df0e17d9331c68ca0f8eb5c921c63cb468b499634cc05c236822aa4d7ff1719e9cfb8c5feab5555bf03fbf82e0f409472aafa96941b4becc4771d65912568b07d567e2f63740c39ab3c0caeadb07d32b27f4ab3492527f8dbc8e6f9e9401553a83e03df55e91562650707cf16726b1b15f441201f87499d0a81dc4245e7a30268f37b70b894bbc3b68e6680cdc169e0c893c24b4bccd456f2ef69f3b1bc225f2a3f733188af15eb0c152b7099b8035785f5fca86023f9f8caad84e807258a6e061da12fb551d36610811542b399ff74bb45816f9a2bf6273a719dbf8d7efbb7574e0da52f05a9f728b1f0feb334e1c0a87d019f3ca3089589aac227962671476389e2eb5060fc7151d73e08d930bbae9500b12e9d0a291a00c57821c09ab86dfd1b34c2c375e2175994e39590e7f703af6d4b8e32f5a4e261db7433909da932bdac021291a55e4568e7c4d3028b8739828649b2ad5c2a80e034948f463462b971288a51aa7764ca8ef0c47bee786eb4d37e890b70b29c7d713db1487c9a7b33a07f10a98bc2959126839b146eca5d7ab8147567ea5e559ca22c039d4cac6acf1d261f49bc902f0df884cb6c32e6e6e15017eb3dba55b94f9ef402aef830060a8e44770016c0c3d593e072223c7983d6641c5b41d38025da8b592df10d7da6c0166e7566b8a9217efdc6ad28c218cc09eee8504f89975e1487b57ba595c69183245f3991e965893b6994e3c8b0d9d99601a127ac6bdfcc7f9c0aac9a5fe910ab27fc68ade3c3d9a10bdc211c0bae6f31242f4a9418bb0ce45f3a00535139b397934749c8b05bc5b70b37826c78a26ff5e476844f43f4b95024c45538f8b2a45e1c2b2fe3988c0c877d8a5b346ae18bd88bc07655e723a9a72083db44b30e6ec04080844331559433a397de3128cad2c6bb0dfe769c70030682b88e394081eb8cdf39065e913291d7050419c68e69991c36b01d4ade4f9669fee599b914358ad44a383a809b16ae61797341cc0fc9eee84a18e42471f30fcb5e658a811f481a43e14ca0f236a48ce3b2129e2e924faa8499b80d30b9eadef158043fd384e7d0315630ec2413c477ba1eb9bef63cbd3d62be216574084885310f840e9ea0b09b22511ddf423e2160954be65342e5bbc8c5e934f9a485db612a6361d4922978f2671af93bb0865c7be899ea0a5443c3bddd71727a06e8ff3b059a40bbeefdff814036642d0bd61288a9b9b60c280759db1373ce8de7c709af1f924314537097508bce197a2c88af27b61349b8ad313552ae9d48a99d8c2ae5db68b96a51c9b1d5a72f2136a6cb570202d242f657fd09698102e2a8d2cd3f0bacd90900119bf22e7c7e26b0f33276f17d72df73e43be7506c84c8971e72d88e5c090e508a5ce605cb63e9bd2abcecdee36557afd2939d47e40cb0415200b7f7139626d4168f0eb41aefb200ef8ea944978c476ba5a037cab52777f7315031c401cc09a7192be68e7990df9ec2b5d8aa2986d455e5daf7", 
+        "names": [
+            {
+                "@valid_since": "2009-10-08", 
+                "first": "Kent", 
+                "middle": "Sterrett", 
+                "last": "Lloyd", 
+                "suffix": "Jr", 
+                "display": "Kent Sterrett Lloyd Jr"
+            }
+        ], 
+        "emails": [
+            {
+                "@valid_since": "2008-01-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "721f44b69ead3fe19b637b76d1f50e05"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "929cde5151ca1e1e564cf6dacb2f1b70"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "89504197e7e5c834b9f3ab5e6a4aab19"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "c39df9ad1b10eb4524ff870a2b4c668f"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "3d1bf56197359aa717f4d0ffa0d6af6c"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "e1243389a6e8e036c74e7d5b701c3b8a"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "427196a7d2ad8c94d3def33e048353ca"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@email_provider": false, 
+                "address": "full.email.available@business.subscription", 
+                "address_md5": "f4d5649afd88972686689bf97089b025"
+            }
+        ], 
+        "phones": [
+            {
+                "@valid_since": "2014-12-01", 
+                "@type": "work_phone", 
+                "country_code": 1, 
+                "number": 5026343350, 
+                "display": "502-634-3350", 
+                "display_international": "502-634-3350"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@type": "work_fax", 
+                "country_code": 1, 
+                "number": 5026369291, 
+                "display": "502-636-9291", 
+                "display_international": "502-636-9291"
+            }, 
+            {
+                "@valid_since": "2014-12-01", 
+                "@type": "work_phone", 
+                "country_code": 1, 
+                "number": 5026374223, 
+                "display": "502-637-4223", 
+                "display_international": "502-637-4223"
+            }, 
+            {
+                "@valid_since": "2013-10-02", 
+                "country_code": 1, 
+                "number": 8122944850, 
+                "display": "812-294-4850", 
+                "display_international": "812-294-4850"
+            }, 
+            {
+                "@valid_since": "2013-10-02", 
+                "country_code": 1, 
+                "number": 8122944990, 
+                "display": "812-294-4990", 
+                "display_international": "812-294-4990"
+            }
+        ], 
+        "gender": {
+            "@valid_since": "2013-10-02", 
+            "content": "male"
+        }, 
+        "dob": {
+            "@valid_since": "2013-02-04", 
+            "date_range": {
+                "start": "1941-10-18", 
+                "end": "1942-02-04"
+            }, 
+            "display": "74 years old"
+        }, 
+        "languages": [
+            {
+                "@inferred": true, 
+                "language": "en", 
+                "display": "en"
+            }
+        ], 
+        "addresses": [
+            {
+                "@valid_since": "2009-10-08", 
+                "country": "US", 
+                "state": "FL", 
+                "city": "Bonita Springs", 
+                "street": "Winthrop Circle", 
+                "house": "28381", 
+                "zip_code": "34134", 
+                "display": "28381 Winthrop Circle, Bonita Springs, Florida"
+            }, 
+            {
+                "@valid_since": "2009-10-08", 
+                "country": "US", 
+                "state": "FL", 
+                "city": "Tallahassee", 
+                "display": "Tallahassee, Florida"
+            }, 
+            {
+                "@valid_since": "2009-10-08", 
+                "country": "US", 
+                "state": "FL", 
+                "city": "Naples", 
+                "display": "Naples, Florida"
+            }, 
+            {
+                "@valid_since": "2009-10-08", 
+                "@type": "old", 
+                "country": "US", 
+                "state": "FL", 
+                "city": "Estero", 
+                "street": "Grassy Pine Drive", 
+                "house": "23207", 
+                "zip_code": "33928", 
+                "display": "23207 Grassy Pine Drive, Estero, Florida"
+            }, 
+            {
+                "@valid_since": "2009-10-08", 
+                "country": "US", 
+                "state": "FL", 
+                "city": "Fort Myers", 
+                "display": "Fort Myers, Florida"
+            }, 
+            {
+                "@valid_since": "2009-10-08", 
+                "country": "US", 
+                "state": "IN", 
+                "city": "Henryville", 
+                "street": "Broadway Street", 
+                "house": "303", 
+                "zip_code": "47126", 
+                "display": "303 Broadway Street, Henryville, Indiana"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "IN", 
+                "city": "Henryville", 
+                "street": "Broadway Street", 
+                "house": "214", 
+                "zip_code": "47126", 
+                "display": "214 Broadway Street, Henryville, Indiana"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "IN", 
+                "city": "Borden", 
+                "zip_code": "47106", 
+                "display": "Borden, Indiana"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "IN", 
+                "city": "Greenwood", 
+                "display": "Greenwood, Indiana"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "KY", 
+                "city": "Louisville", 
+                "street": "Logan Street", 
+                "house": "1256", 
+                "zip_code": "40204", 
+                "display": "1256 Logan Street, Louisville, Kentucky"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "KY", 
+                "city": "Horse Cave", 
+                "zip_code": "42749", 
+                "display": "Horse Cave, Kentucky"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "KY", 
+                "city": "Independence", 
+                "zip_code": "41051", 
+                "display": "Independence, Kentucky"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "KY", 
+                "city": "Florence", 
+                "display": "Florence, Kentucky"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "NC", 
+                "city": "Nashville", 
+                "zip_code": "27856", 
+                "display": "Nashville, North Carolina"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "NC", 
+                "city": "Rocky Mount", 
+                "display": "Rocky Mount, North Carolina"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "OH", 
+                "city": "Columbus", 
+                "display": "Columbus, Ohio"
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "country": "US", 
+                "state": "WV", 
+                "city": "Logan", 
+                "zip_code": "25601", 
+                "display": "Logan, West Virginia"
+            }
+        ], 
+        "relationships": [
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "family", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Dorothy", 
+                        "middle": "Ann", 
+                        "last": "Lloyd", 
+                        "display": "Dorothy Ann Lloyd"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "family", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Kent", 
+                        "middle": "Sterrett", 
+                        "last": "Lloyd", 
+                        "display": "Kent Sterrett Lloyd"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "family", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "David", 
+                        "middle": "Paul", 
+                        "last": "Lloyd", 
+                        "display": "David Paul Lloyd"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "family", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Kenneth", 
+                        "middle": "S", 
+                        "last": "Lloyd", 
+                        "display": "Kenneth S Lloyd"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "family", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Tammy", 
+                        "middle": "A", 
+                        "last": "Lloyd", 
+                        "display": "Tammy A Lloyd"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "family", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Sterrett", 
+                        "last": "Lloyd", 
+                        "display": "Sterrett Lloyd"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "other", 
+                "names": [
+                    {
+                        "@valid_since": "2013-02-04", 
+                        "first": "Tammy", 
+                        "middle": "A", 
+                        "last": "Phillips", 
+                        "display": "Tammy A Phillips"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "other", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Jennifer", 
+                        "middle": "E", 
+                        "last": "Gardnerdevore", 
+                        "display": "Jennifer E Gardnerdevore"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "other", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Kent", 
+                        "middle": "S", 
+                        "last": "Lloydjr", 
+                        "display": "Kent S Lloydjr"
+                    }
+                ]
+            }, 
+            {
+                "@valid_since": "2012-10-17", 
+                "@type": "other", 
+                "names": [
+                    {
+                        "@valid_since": "2012-10-17", 
+                        "first": "Sterrett", 
+                        "last": "Llyod", 
+                        "display": "Sterrett Llyod"
+                    }
+                ]
+            }
+        ], 
+        "user_ids": [
+            {
+                "@valid_since": "2012-09-25", 
+                "content": "152359333@linkedin"
+            }, 
+            {
+                "@valid_since": "2012-09-25", 
+                "content": "43/36/ab1@linkedin"
+            }, 
+            {
+                "@valid_since": "2012-09-25", 
+                "content": "#ab103643@linkedin"
+            }
+        ], 
+        "urls": [
+            {
+                "@source_id": "b4e9ffcbde3231e90ed212f638b98551", 
+                "@domain": "linkedin.com", 
+                "@name": "LinkedIn", 
+                "@category": "professional_and_business", 
+                "url": "http://www.linkedin.com/pub/kent-lloyd/43/036/ab1"
+            }, 
+            {
+                "@source_id": "f92550c042db374051f97ddc26daada0", 
+                "@sponsored": true, 
+                "@domain": "peoplefinders.com", 
+                "@name": "PeopleFinders - Name Search", 
+                "@category": "background_reports", 
+                "url": "http://www.peoplefinders.com/peoplesearch/searchresults?idx=290924637&piplstart=&searchtype=people-name&fn=kent&mn=&ln=lloyd&city=Henryville&state=IN&utm_source=piplv2&utm_campaign=tzr&age=71"
+            }, 
+            {
+                "@source_id": "209b2233de7bfe4e159d790f928443d319f8083073b9cb5c4810f27c73209a4f", 
+                "@domain": "leetc.com", 
+                "@name": "Lee County Tax Collector", 
+                "@category": "public_records", 
+                "url": "http://www.leetc.com/search_detail.asp?account=09472528000000570&SearchType=RP&TaxYear=2002"
+            }, 
+            {
+                "@source_id": "f57390574322ff9bf5b31d7269e03262", 
+                "@domain": "10digits.us", 
+                "@name": "10Digits.us", 
+                "@category": "contact_details", 
+                "url": "http://10digits.us/n/Kent_S_Lloyd/Henryville_IN/04cb3d0a310e7b8d1f7a02d74d1ea2b1"
+            }, 
+            {
+                "@source_id": "3bceab60d4dab9c3fada69dc4b3778ec499204261bcbd50f61c90bb3f5a8705f", 
+                "@domain": "asmenews.org", 
+                "@name": "asmenews.org", 
+                "@category": "web_pages", 
+                "url": "http://www.asmenews.org/archives/backissues/feb02/features/nomproc.html"
+            }, 
+            {
+                "@source_id": "f67724b31f38b833795a8d263810442d", 
+                "@sponsored": true, 
+                "@domain": "peoplefinders.com", 
+                "@name": "PeopleFinders - Name Search", 
+                "@category": "background_reports", 
+                "url": "http://www.peoplefinders.com/peoplesearch/searchresults?idx=88067820&piplstart=&searchtype=people-name&fn=kent&mn=&ln=lloyd&city=Fort Myers&state=FL&utm_source=piplv2&utm_campaign=tzr&age=71"
+            }, 
+            {
+                "@source_id": "0ce7d2a46efccfac315bc100fb36ba14", 
+                "@sponsored": true, 
+                "@domain": "peoplefinders.com", 
+                "@name": "PeopleFinders - Name Search", 
+                "@category": "background_reports", 
+                "url": "http://www.peoplefinders.com/peoplesearch/searchresults?idx=402954807&piplstart=&searchtype=people-name&fn=kent&mn=&ln=lloyd&city=Estero&state=FL&utm_source=piplv2&utm_campaign=tzr&age="
+            }, 
+            {
+                "@source_id": "2a69cc2d337b2af1ddb2ada4fd7522af", 
+                "@domain": "10digits.us", 
+                "@name": "10Digits.us", 
+                "@category": "contact_details", 
+                "url": "http://10digits.us/n/Kent_S_Lloyd/Henryville_IN/5e55bbabe7a6c6a1760243ba34eb0b7c"
+            }, 
+            {
+                "@source_id": "386c6b626cbfeaaaa894bb05acbba78b", 
+                "@domain": "10digits.us", 
+                "@name": "10Digits.us", 
+                "@category": "contact_details", 
+                "url": "http://10digits.us/n/Kent_S_Lloyd/Louisville_KY/edfe30574da44215ed72fbd0fa8d2ffa"
+            }, 
+            {
+                "@source_id": "1a5cc7ed85b00a5da918d97d5bb377d1971b5c0319c5fe54d4324bc16c1a23d7", 
+                "@domain": "leetc.com", 
+                "@name": "Lee County Tax Collector", 
+                "@category": "public_records", 
+                "url": "http://www.leetc.com/search_detail.asp?account=044825B40070A0320&SearchType=RP&TaxYear=2000"
+            }, 
+            {
+                "@source_id": "1511f145dfeb49f5c588ec29039d0cb2e4cc1b9ddcb0f11326fd2df7e46d8ebe", 
+                "@domain": "leetc.com", 
+                "@name": "Lee County Tax Collector", 
+                "@category": "public_records", 
+                "url": "http://www.leetc.com/search_detail.asp?account=044825070000A0320&SearchType=RP&TaxYear=1999"
+            }, 
+            {
+                "@source_id": "c182c344a96145247b086c27abd554a3cb6aa409837b810dfe1c96ef8fa961d8", 
+                "@domain": "leetc.com", 
+                "@name": "Lee County Tax Collector", 
+                "@category": "public_records", 
+                "url": "http://www.leetc.com/search_detail.asp?account=044825070000A0320&SearchType=RP&TaxYear=1998"
+            }
+        ]
+    }
+}

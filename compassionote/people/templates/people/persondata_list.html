@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>People</h1>
+{% csrf_token %}
+    <table class="table">
+        <thead>
+            <tr>
+            <th>Linked Contact</th>
+            <th>Confidence</th>
+            <th>Matched</th>
+            <th>Created By</th>
+            <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for object in object_list %}
+                <tr>
+                    <td>
+                        <a href="{% url 'people:contact-view' object.contact.id %}">{{ object.contact }}</a>
+                    </td>
+                    <td>
+                        {{ object.match }}
+                    </td>
+                    <td>
+                        {{ object.matched }}
+                    </td>
+                    <td>
+                        {{ object.created_by }}
+                    </td>
+                    <td>
+                        <a class="btn btn-info" href="{% url 'people:person' object.id %}">View</a>
+                    </td>
+                </tr>
+            {% empty %}
+            <tr>
+                <td>No people yet.</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+<div class="row">
+    <a href="{% url 'people:person-add' %}" class="btn btn-info" role="button">Add a Person</a>
+</div>
+</form>
+
+{% endblock %}

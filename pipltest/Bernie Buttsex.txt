@@ -1,0 +1,27 @@
+{
+    "@http_status_code": 200, 
+    "@visible_sources": 0, 
+    "@available_sources": 0, 
+    "@persons_count": 0, 
+    "@search_id": "1606120431272367667381967847788013543", 
+    "query": {
+        "names": [
+            {
+                "first": "Bernie", 
+                "last": "Buttsex", 
+                "display": "Bernie Buttsex"
+            }
+        ], 
+        "addresses": [
+            {
+                "country": "US", 
+                "state": "AL", 
+                "city": "Huntsville", 
+                "street": "Somewhere St.", 
+                "house": "123", 
+                "zip_code": "35801", 
+                "display": "123 Somewhere St., Huntsville, Alabama"
+            }
+        ]
+    }
+}
